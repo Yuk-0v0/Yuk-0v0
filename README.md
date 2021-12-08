@@ -5,7 +5,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2335495e.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yuk_0v0)
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://blog.yuk7.com)
-[![Pixiv](https://img.shields.io/badge/Pixiv-%231DA1F2.svg?&style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/73611056)
+[![Pixiv](https://img.shields.io/badge/Pixiv-%231DA1F2.svg?&style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/34084702)
 
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Yuk-0v0&show_icons=true">](https://metrics.lecoq.io/Yuk-0v0?template=classic)
 
