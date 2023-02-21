@@ -11,7 +11,7 @@
 
 a back-end engineer who loves to draw :art: ~
 
--   :hammer_and_pick: Python / Flask / TypeScript / Vue
+-   :hammer_and_pick: Java / SSM / 
 -   :pencil2: macOS / Visual Studio Code / Clip Studio Paint Pro 
 -   :man_scientist: [ISFP-T](https://www.16personalities.com/isfp-personality) personality
 -   :man: Pronouns: he/him
